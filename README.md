@@ -1,1 +1,3 @@
-later
+npm intall
+
+npm run dev
